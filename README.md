@@ -23,14 +23,6 @@
 3. `cd web-client` → `npm install` → `npm start` (or build and host).
 4. Watch data in web client or use `GET /api/latest/:device`.
 
-## What to post on GitHub (recommended)
-- All source files (arduino/, server/, web-client/)
-- README.md (above)
-- LICENSE (MIT)
-- .gitignore (node_modules, .env)
-- Add screenshots: wiring, serial monitor output, web client view
-- Optional: `docs/` with short video/GIF of system in action
 
-## License
-MIT — add `LICENSE` file.
+
 
